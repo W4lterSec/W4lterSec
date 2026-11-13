@@ -1,15 +1,15 @@
-![woftwerine — Blue Team | Red Team](banner.svg)
+![W4lterSec — Blue Team | Red Team](banner.svg)
 
-<h1 align="center">Blue Team | Red Team</h1>
+<h1 align="center">💻 W4lterSec · Blue Team | Red Team</h1>
 <p align="center">Ciberseguridad · Laboratorios prácticos · Writeups</p>
-<p align="center"><a href="https://woftwerine.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html"><strong>🌐 Ver MadLabs en formato visual</strong></a> &nbsp;·&nbsp; <a href="https://github.com/woftwerine/cybersecurity-labs">📂 Explorar mis laboratorios</a></p>
+<p align="center"><a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html"><strong>🌐 Ver MadLabs en formato visual</strong></a> &nbsp;·&nbsp; <a href="https://github.com/W4lterSec/cybersecurity-labs">📂 Explorar mis laboratorios</a></p>
 
 ## 👋 Sobre mí
 
-Soy **woftwerine**. Estoy construyendo mi portfolio de ciberseguridad con laboratorios prácticos y documentación de lo aprendido. Me interesan tanto la defensa como la seguridad ofensiva: entender cómo se produce un ataque ayuda a comprender cómo prevenirlo y detectarlo.
+Soy **W4lterSec**. Estoy construyendo mi portfolio de ciberseguridad con laboratorios prácticos y documentación de lo aprendido. Me interesan tanto la defensa como la seguridad ofensiva: entender cómo se produce un ataque ayuda a comprender cómo prevenirlo y detectarlo.
 
 ```text
-woftwerine@lab:~$ cat profile.txt
+W4lterSec@lab:~$ cat profile.txt
 
 ENFOQUE    Blue Team | Red Team
 MÉTODO     Practicar → Investigar → Documentar
@@ -22,7 +22,7 @@ PORTFOLIO  Laboratorios y writeups
 | :--- | :--- |
 | Espacio dedicado a defensa y análisis | Máquinas y laboratorios ofensivos |
 | Logs, detección y respuesta a incidentes como áreas de aprendizaje | Reconocimiento, acceso inicial y escalada de privilegios |
-| [Explorar Blue Team →](https://github.com/woftwerine/cybersecurity-labs/tree/main/blue-team) | [Explorar Red Team →](https://github.com/woftwerine/cybersecurity-labs/tree/main/red-team) |
+| [Explorar Blue Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/blue-team) | [Explorar Red Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/red-team) |
 
 ## 🔬 Laboratorio destacado
 
@@ -36,7 +36,7 @@ Writeup de una cadena de explotación desde una subida de archivos hasta el cont
 
 **Técnicas documentadas:** bypass de subida de archivos · RCE · PATH hijacking · inyección de comandos · clave SSH expuesta.
 
-[**▶ Abrir writeup visual**](https://woftwerine.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html) · [Leer documentación](https://github.com/woftwerine/cybersecurity-labs/tree/main/red-team/hackmyvm/madlabs)
+[**▶ Abrir writeup visual**](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html) · [Leer documentación](https://github.com/W4lterSec/cybersecurity-labs/tree/main/red-team/hackmyvm/madlabs)
 
 ## 🧰 Herramientas presentes en mis writeups
 
@@ -56,3 +56,4 @@ Writeup de una cadena de explotación desde una subida de archivos hasta el cont
 ---
 
 <p align="center"><strong>Aprender. Investigar. Documentar.</strong><br/>🔵 Blue Team &nbsp;|&nbsp; 🔴 Red Team</p>
+

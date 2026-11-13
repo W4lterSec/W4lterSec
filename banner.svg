@@ -1,11 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">woftwerine — Blue Team | Red Team</title><desc id="desc">Portfolio de ciberseguridad. Aprender, investigar y documentar.</desc>
+<title id="title">W4lterSec — Blue Team | Red Team</title><desc id="desc">Portfolio de ciberseguridad. Aprender, investigar y documentar.</desc>
 <defs><linearGradient id="bg"><stop stop-color="#07182c"/><stop offset=".55" stop-color="#0d1117"/><stop offset="1" stop-color="#29121e"/></linearGradient><linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#fb7185"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern></defs>
 <rect width="1200" height="360" rx="20" fill="url(#bg)"/><rect width="1200" height="360" rx="20" fill="url(#grid)"/>
 <rect x="36" y="32" width="1128" height="296" rx="12" stroke="#303b4b" fill="none"/><circle cx="62" cy="56" r="5" fill="#fb7185"/><circle cx="82" cy="56" r="5" fill="#fbbf24"/><circle cx="102" cy="56" r="5" fill="#4ade80"/>
 <text x="132" y="61" fill="#8b9bb0" font-family="monospace" font-size="13">~/cybersecurity/portfolio</text><path d="M36 80H1164" stroke="#303b4b"/>
-<text x="70" y="125" fill="#8b9bb0" font-family="monospace" font-size="16">$ whoami</text><text x="68" y="195" fill="#f0f6fc" font-family="monospace" font-weight="bold" font-size="61" letter-spacing="2">woftwerine<tspan fill="#4ade80">_</tspan></text>
+<text x="70" y="125" fill="#8b9bb0" font-family="monospace" font-size="16">$ whoami</text><text x="68" y="195" fill="#f0f6fc" font-family="monospace" font-weight="bold" font-size="61" letter-spacing="2">W4lterSec<tspan fill="#4ade80">_</tspan></text>
 <text x="72" y="247" font-family="monospace" font-size="29" font-weight="bold"><tspan fill="#38bdf8">BLUE TEAM</tspan><tspan fill="#64748b"> | </tspan><tspan fill="#fb7185">RED TEAM</tspan></text>
 <text x="72" y="291" fill="#a6b3c5" font-family="monospace" font-size="17">Aprender. Investigar. Documentar.</text>
-<path d="M950 120L1030 155V215Q1030 250 950 285Q870 250 870 215V155Z" fill="none" stroke="url(#accent)" stroke-width="3"/><path d="M950 143V259M894 174H1006M894 206H1006" stroke="#64748b" stroke-opacity=".5" fill="none"/><rect x="36" y="325" width="1128" height="3" fill="url(#accent)"/>
+<rect x="850" y="132" width="200" height="128" rx="10" fill="#0d1523" stroke="url(#accent)" stroke-width="4"/><path d="M827 276H1073L1050 260H850Z" fill="#142235" stroke="url(#accent)" stroke-width="3"/><path d="M924 272H976" stroke="#a6b3c5" stroke-width="3"/><text x="874" y="208" fill="#38bdf8" font-family="monospace" font-size="36">&gt;_</text><path d="M937 214H1023" stroke="#fb7185" stroke-width="3"/><rect x="36" y="325" width="1128" height="3" fill="url(#accent)"/>
 </svg>
+
