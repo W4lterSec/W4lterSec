@@ -16,6 +16,14 @@ MÉTODO     Practicar → Investigar → Documentar
 PORTFOLIO  Laboratorios y writeups
 ```
 
+## 📦 Descargas e instalación
+
+### 🍯 T-Pot
+
+Guía en español con descarga desde la fuente oficial, pasos de instalación y cuatro capturas del laboratorio. Repositorio independiente para quien quiera montar su propio entorno.
+
+[**⬇ Abrir T-Pot · Descarga e instalación**](https://github.com/W4lterSec/T-Pot)
+
 ## 🛡️ Blue Team & ⚔️ Red Team
 
 | 🔵 Blue Team | 🔴 Red Team |
