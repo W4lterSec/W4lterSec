@@ -1,4 +1,4 @@
-![W4lterSec — Blue Team | Red Team](banner.svg)
+![W4lterSec — Blue Team | Red Team](banner-w4ltersec.svg)
 
 <h1 align="center">💻 W4lterSec · Blue Team | Red Team</h1>
 <p align="center">Ciberseguridad · Laboratorios prácticos · Writeups</p>
@@ -56,4 +56,5 @@ Writeup de una cadena de explotación desde una subida de archivos hasta el cont
 ---
 
 <p align="center"><strong>Aprender. Investigar. Documentar.</strong><br/>🔵 Blue Team &nbsp;|&nbsp; 🔴 Red Team</p>
+
 
