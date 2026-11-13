@@ -2,7 +2,7 @@
 
 <h1 align="center">💻 W4lterSec · Blue Team | Red Team</h1>
 <p align="center">Ciberseguridad · Laboratorios prácticos · Writeups</p>
-<p align="center"><a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html"><strong>🌐 Ver Aegis</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html"><strong>🌐 Ver MadLabs en formato visual</strong></a> &nbsp;·&nbsp; <a href="https://github.com/W4lterSec/cybersecurity-labs">📂 Explorar mis laboratorios</a></p>
+<p align="center"><a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/vulnhub/earth/Earth-Writeup.html"><strong>🌐 Ver Earth</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html"><strong>🌐 Ver Aegis</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html"><strong>🌐 Ver MadLabs en formato visual</strong></a> &nbsp;·&nbsp; <a href="https://github.com/W4lterSec/cybersecurity-labs">📂 Explorar mis laboratorios</a></p>
 
 ## 👋 Sobre mí
 
@@ -34,7 +34,7 @@ Guía en español para instalar Wazuh, añadir agentes y recorrer el panel con c
 
 | 🔵 Blue Team | 🔴 Red Team |
 | :--- | :--- |
-| Espacio dedicado a defensa y análisis.<br/>**Proyectos:** [🍯 T-Pot](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/) · [📊 Splunk](https://github.com/W4lterSec/Splunk)<br/>🌐 Acceso público | Máquinas y laboratorios ofensivos.<br/>**[Aegis](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html) · [MadLabs](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html)** |
+| Espacio dedicado a defensa y análisis.<br/>**Proyectos:** [🍯 T-Pot](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/) · [📊 Splunk](https://github.com/W4lterSec/Splunk)<br/>🌐 Acceso público | Máquinas y laboratorios ofensivos.<br/>**[Earth](https://w4ltersec.github.io/cybersecurity-labs/red-team/vulnhub/earth/Earth-Writeup.html) · [Aegis](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html) · [MadLabs](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html)** |
 | Logs, detección y respuesta a incidentes como áreas de aprendizaje | Reconocimiento, acceso inicial y escalada de privilegios |
 | [Explorar Blue Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/blue-team) | [Explorar Red Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/red-team) |
 
@@ -49,6 +49,16 @@ Demostración del mapa de actividad de T-Pot y su registro de eventos. Un proyec
 [**▶ Reproducir demostración de T-Pot**](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/) · [Documentación de T-Pot](https://github.com/W4lterSec/cybersecurity-labs/tree/main/blue-team/t-pot)
 
 ## 🔬 Laboratorios destacados
+
+### 🌍 Earth · VulnHub
+
+**Completada hasta root** · Linux / Fedora 34 · Dificultad oficial fácil · Red Team
+
+Enumeración de vhosts mediante TLS, recuperación de una clave XOR con texto plano conocido, ejecución autenticada en Django y escalada por ingeniería inversa de un binario SUID.
+
+`terra (panel) → apache → root`
+
+[**▶ Abrir writeup visual de Earth**](https://w4ltersec.github.io/cybersecurity-labs/red-team/vulnhub/earth/Earth-Writeup.html) · [Leer documentación de Earth](https://github.com/W4lterSec/cybersecurity-labs/tree/main/red-team/vulnhub/earth)
 
 ### 🛡️ Aegis · HackMyVM
 
