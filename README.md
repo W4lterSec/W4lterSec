@@ -20,7 +20,7 @@ PORTFOLIO  Laboratorios y writeups
 
 | 🔵 Blue Team | 🔴 Red Team |
 | :--- | :--- |
-| Espacio dedicado a defensa y análisis | Máquinas y laboratorios ofensivos |
+| Espacio dedicado a defensa y análisis.<br/>**Proyecto: [📊 Splunk](https://github.com/W4lterSec/Splunk)**<br/>🔒 Privado · Requiere acceso | Máquinas y laboratorios ofensivos |
 | Logs, detección y respuesta a incidentes como áreas de aprendizaje | Reconocimiento, acceso inicial y escalada de privilegios |
 | [Explorar Blue Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/blue-team) | [Explorar Red Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/red-team) |
 
