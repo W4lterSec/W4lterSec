@@ -2,7 +2,7 @@
 
 <h1 align="center">💻 W4lterSec · Blue Team | Red Team</h1>
 <p align="center">Ciberseguridad · Laboratorios prácticos · Writeups</p>
-<p align="center"><a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html"><strong>🌐 Ver MadLabs en formato visual</strong></a> &nbsp;·&nbsp; <a href="https://github.com/W4lterSec/cybersecurity-labs">📂 Explorar mis laboratorios</a></p>
+<p align="center"><a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html"><strong>🌐 Ver Aegis</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html"><strong>🌐 Ver MadLabs en formato visual</strong></a> &nbsp;·&nbsp; <a href="https://github.com/W4lterSec/cybersecurity-labs">📂 Explorar mis laboratorios</a></p>
 
 ## 👋 Sobre mí
 
@@ -20,11 +20,23 @@ PORTFOLIO  Laboratorios y writeups
 
 | 🔵 Blue Team | 🔴 Red Team |
 | :--- | :--- |
-| Espacio dedicado a defensa y análisis.<br/>**Proyecto: [📊 Splunk](https://github.com/W4lterSec/Splunk)**<br/>🌐 Repositorio público | Máquinas y laboratorios ofensivos |
+| Espacio dedicado a defensa y análisis.<br/>**Proyecto: [📊 Splunk](https://github.com/W4lterSec/Splunk)**<br/>🌐 Repositorio público | Máquinas y laboratorios ofensivos.<br/>**[Aegis](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html) · [MadLabs](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html)** |
 | Logs, detección y respuesta a incidentes como áreas de aprendizaje | Reconocimiento, acceso inicial y escalada de privilegios |
 | [Explorar Blue Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/blue-team) | [Explorar Red Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/red-team) |
 
-## 🔬 Laboratorio destacado
+## 🔬 Laboratorios destacados
+
+### 🛡️ Aegis · HackMyVM
+
+**Completada hasta root** · Linux · Dificultad media · Red Team
+
+Backup rsync expuesto y secreto HMAC en Git, ejecución de código mediante pickle y escalada a través de un socket IPC y una configuración interpretada con sudo.
+
+`operator → adrian → root`
+
+**Técnicas documentadas:** rsync anónimo · HMAC en Git · deserialización pickle · path traversal IPC · inyección mediante source.
+
+[**▶ Abrir writeup visual de Aegis**](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html) · [Leer documentación de Aegis](https://github.com/W4lterSec/cybersecurity-labs/tree/main/red-team/hackmyvm/aegis)
 
 ### ⚡ MadLabs · HackMyVM
 
