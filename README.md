@@ -24,6 +24,12 @@ Guía en español con descarga desde la fuente oficial, pasos de instalación y 
 
 [**⬇ Abrir T-Pot · Descarga e instalación**](https://github.com/W4lterSec/T-Pot)
 
+### 🛡️ Wazuh
+
+Guía en español para instalar Wazuh, añadir agentes y recorrer el panel con cuatro capturas del laboratorio. Incluye la descarga del asistente oficial.
+
+[**⬇ Abrir Wazuh · Descarga e instalación**](https://github.com/W4lterSec/Wazuh)
+
 ## 🛡️ Blue Team & ⚔️ Red Team
 
 | 🔵 Blue Team | 🔴 Red Team |
