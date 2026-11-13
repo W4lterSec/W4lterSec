@@ -20,9 +20,19 @@ PORTFOLIO  Laboratorios y writeups
 
 | 🔵 Blue Team | 🔴 Red Team |
 | :--- | :--- |
-| Espacio dedicado a defensa y análisis.<br/>**Proyecto: [📊 Splunk](https://github.com/W4lterSec/Splunk)**<br/>🌐 Repositorio público | Máquinas y laboratorios ofensivos.<br/>**[Aegis](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html) · [MadLabs](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html)** |
+| Espacio dedicado a defensa y análisis.<br/>**Proyectos:** [🍯 T-Pot](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/) · [📊 Splunk](https://github.com/W4lterSec/Splunk)<br/>🌐 Acceso público | Máquinas y laboratorios ofensivos.<br/>**[Aegis](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html) · [MadLabs](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html)** |
 | Logs, detección y respuesta a incidentes como áreas de aprendizaje | Reconocimiento, acceso inicial y escalada de privilegios |
 | [Explorar Blue Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/blue-team) | [Explorar Red Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/red-team) |
+
+## 🔵 Proyecto Blue Team
+
+### 🍯 T-Pot · Estudio del comportamiento de atacantes
+
+Demostración del mapa de actividad de T-Pot y su registro de eventos. Un proyecto de estudio para observar patrones, reconocer señales de ataque y mejorar la detección temprana y la prevención.
+
+[![T-Pot · Mapa de actividad](https://raw.githubusercontent.com/W4lterSec/cybersecurity-labs/main/blue-team/t-pot/tpot-preview.jpg)](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/)
+
+[**▶ Reproducir demostración de T-Pot**](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/) · [Documentación de T-Pot](https://github.com/W4lterSec/cybersecurity-labs/tree/main/blue-team/t-pot)
 
 ## 🔬 Laboratorios destacados
 
