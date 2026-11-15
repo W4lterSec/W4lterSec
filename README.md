@@ -30,6 +30,12 @@ Guía en español para instalar Wazuh, añadir agentes y recorrer el panel con c
 
 [**⬇ Abrir Wazuh · Descarga e instalación**](https://github.com/W4lterSec/Wazuh)
 
+### 🕶️ Kali Whoami · Laboratorio de privacidad
+
+Instalación, selección de módulos y comprobación de peticiones con Tor. Guía visual con ocho imágenes del laboratorio y ejemplos propios para interpretar los resultados.
+
+[**🌐 Abrir guía visual de Kali Whoami**](https://w4ltersec.github.io/Kali-Whoami-Lab/) · [Repositorio y documentación](https://github.com/W4lterSec/Kali-Whoami-Lab)
+
 ## 🛡️ Blue Team & ⚔️ Red Team
 
 | 🔵 Blue Team | 🔴 Red Team |
