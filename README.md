@@ -2,7 +2,7 @@
 
 <h1 align="center">💻 W4lterSec · Blue Team | Red Team</h1>
 <p align="center">Ciberseguridad · Laboratorios prácticos · Writeups</p>
-<p align="center"><a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/banner/Banner-Writeup.html"><strong>🌐 Ver Banner</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/vulnhub/earth/Earth-Writeup.html"><strong>🌐 Ver Earth</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html"><strong>🌐 Ver Aegis</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html"><strong>🌐 Ver MadLabs en formato visual</strong></a> &nbsp;·&nbsp; <a href="https://github.com/W4lterSec/cybersecurity-labs">📂 Explorar mis laboratorios</a></p>
+<p align="center"><a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/dc02/DC02-Writeup.html"><strong>🌐 Ver DC02</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/banner/Banner-Writeup.html"><strong>🌐 Ver Banner</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/vulnhub/earth/Earth-Writeup.html"><strong>🌐 Ver Earth</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html"><strong>🌐 Ver Aegis</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html"><strong>🌐 Ver MadLabs en formato visual</strong></a> &nbsp;·&nbsp; <a href="https://github.com/W4lterSec/cybersecurity-labs">📂 Explorar mis laboratorios</a></p>
 
 ## 👋 Sobre mí
 
@@ -40,7 +40,7 @@ Instalación, selección de módulos y comprobación de peticiones con Tor. Guí
 
 | 🔵 Blue Team | 🔴 Red Team |
 | :--- | :--- |
-| Espacio dedicado a defensa y análisis.<br/>**Proyectos:** [🍯 T-Pot](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/) · [📊 Splunk](https://github.com/W4lterSec/Splunk)<br/>🌐 Acceso público | Máquinas y laboratorios ofensivos.<br/>**[Banner](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/banner/Banner-Writeup.html) · [Earth](https://w4ltersec.github.io/cybersecurity-labs/red-team/vulnhub/earth/Earth-Writeup.html) · [Aegis](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html) · [MadLabs](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html)** |
+| Espacio dedicado a defensa y análisis.<br/>**Proyectos:** [🍯 T-Pot](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/) · [📊 Splunk](https://github.com/W4lterSec/Splunk)<br/>🌐 Acceso público | Máquinas y laboratorios ofensivos.<br/>**[DC02](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/dc02/DC02-Writeup.html) · [Banner](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/banner/Banner-Writeup.html) · [Earth](https://w4ltersec.github.io/cybersecurity-labs/red-team/vulnhub/earth/Earth-Writeup.html) · [Aegis](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html) · [MadLabs](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html)** |
 | Logs, detección y respuesta a incidentes como áreas de aprendizaje | Reconocimiento, acceso inicial y escalada de privilegios |
 | [Explorar Blue Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/blue-team) | [Explorar Red Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/red-team) |
 
@@ -55,6 +55,16 @@ Demostración del mapa de actividad de T-Pot y su registro de eventos. Un proyec
 [**▶ Reproducir demostración de T-Pot**](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/) · [Documentación de T-Pot](https://github.com/W4lterSec/cybersecurity-labs/tree/main/blue-team/t-pot)
 
 ## 🔬 Laboratorios destacados
+
+### 🏢 DC02 · HackMyVM
+
+**Completada hasta Administrator / Domain Admin** · Windows Server 2022 · Active Directory · Red Team
+
+Enumeración de usuarios por Kerberos y acceso inicial con credenciales débiles. AS-REP Roasting, abuso del grupo Backup Operators, DCSync con la cuenta del controlador y acceso mediante Pass-the-Hash.
+
+`charlie → zximena448 (Backup Operators) → DC01$ → Administrator`
+
+[**▶ Abrir writeup visual de DC02**](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/dc02/DC02-Writeup.html) · [Leer documentación de DC02](https://github.com/W4lterSec/cybersecurity-labs/tree/main/red-team/hackmyvm/dc02)
 
 ### 🏴 Banner · HackMyVM
 
@@ -118,5 +128,3 @@ Writeup de una cadena de explotación desde una subida de archivos hasta el cont
 ---
 
 <p align="center"><strong>Aprender. Investigar. Documentar.</strong><br/>🔵 Blue Team &nbsp;|&nbsp; 🔴 Red Team</p>
-
-
