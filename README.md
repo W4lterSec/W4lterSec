@@ -2,7 +2,7 @@
 
 <h1 align="center">💻 W4lterSec · Blue Team | Red Team</h1>
 <p align="center">Ciberseguridad · Laboratorios prácticos · Writeups</p>
-<p align="center"><a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/government/Government-Writeup.html"><strong>🌐 Ver Government</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/dc02/DC02-Writeup.html"><strong>🌐 Ver DC02</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/banner/Banner-Writeup.html"><strong>🌐 Ver Banner</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/vulnhub/earth/Earth-Writeup.html"><strong>🌐 Ver Earth</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html"><strong>🌐 Ver Aegis</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html"><strong>🌐 Ver MadLabs en formato visual</strong></a> &nbsp;·&nbsp; <a href="https://github.com/W4lterSec/cybersecurity-labs">📂 Explorar mis laboratorios</a></p>
+<p align="center"><a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/bitb/BitB-Writeup.html"><strong>🌐 Ver BitB</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/government/Government-Writeup.html"><strong>🌐 Ver Government</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/dc02/DC02-Writeup.html"><strong>🌐 Ver DC02</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/banner/Banner-Writeup.html"><strong>🌐 Ver Banner</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/vulnhub/earth/Earth-Writeup.html"><strong>🌐 Ver Earth</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html"><strong>🌐 Ver Aegis</strong></a> &nbsp;·&nbsp; <a href="https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html"><strong>🌐 Ver MadLabs en formato visual</strong></a> &nbsp;·&nbsp; <a href="https://github.com/W4lterSec/cybersecurity-labs">📂 Explorar mis laboratorios</a></p>
 
 ## 👋 Sobre mí
 
@@ -40,7 +40,7 @@ Instalación, selección de módulos y comprobación de peticiones con Tor. Guí
 
 | 🔵 Blue Team | 🔴 Red Team |
 | :--- | :--- |
-| Espacio dedicado a defensa y análisis.<br/>**Proyectos:** [🍯 T-Pot](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/) · [📊 Splunk](https://github.com/W4lterSec/Splunk)<br/>🌐 Acceso público | Máquinas y laboratorios ofensivos.<br/>**[Government](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/government/Government-Writeup.html) · [DC02](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/dc02/DC02-Writeup.html) · [Banner](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/banner/Banner-Writeup.html) · [Earth](https://w4ltersec.github.io/cybersecurity-labs/red-team/vulnhub/earth/Earth-Writeup.html) · [Aegis](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html) · [MadLabs](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html)** |
+| Espacio dedicado a defensa y análisis.<br/>**Proyectos:** [🍯 T-Pot](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/) · [📊 Splunk](https://github.com/W4lterSec/Splunk)<br/>🌐 Acceso público | Máquinas y laboratorios ofensivos.<br/>**[BitB](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/bitb/BitB-Writeup.html) · [Government](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/government/Government-Writeup.html) · [DC02](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/dc02/DC02-Writeup.html) · [Banner](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/banner/Banner-Writeup.html) · [Earth](https://w4ltersec.github.io/cybersecurity-labs/red-team/vulnhub/earth/Earth-Writeup.html) · [Aegis](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html) · [MadLabs](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html)** |
 | Logs, detección y respuesta a incidentes como áreas de aprendizaje | Reconocimiento, acceso inicial y escalada de privilegios |
 | [Explorar Blue Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/blue-team) | [Explorar Red Team →](https://github.com/W4lterSec/cybersecurity-labs/tree/main/red-team) |
 
@@ -55,6 +55,16 @@ Demostración del mapa de actividad de T-Pot y su registro de eventos. Un proyec
 [**▶ Reproducir demostración de T-Pot**](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/) · [Documentación de T-Pot](https://github.com/W4lterSec/cybersecurity-labs/tree/main/blue-team/t-pot)
 
 ## 🔬 Laboratorios destacados
+
+### 🪟 BitB · HackMyVM
+
+**Completada · flags de usuario y root obtenidas** · Linux / Ubuntu · Red Team
+
+Browser-in-the-Browser en el flujo de correo del laboratorio, acceso a Artifactory con las credenciales capturadas y sustitución de un artefacto ejecutado por cron. Reutilización de credenciales para la flag de usuario y abuso del grupo LXD para leer la flag de root.
+
+`BitB → Artifactory PUT → cron / abidle → lalike (user) · LXD (root)`
+
+[**▶ Abrir writeup visual de BitB**](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/bitb/BitB-Writeup.html)
 
 ### 🏛️ Government · HackMyVM
 
