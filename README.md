@@ -38,7 +38,7 @@ Instalación, selección de módulos y comprobación de peticiones con Tor. Guí
 
 ## 🛡️ Blue Team & ⚔️ Red Team
 
-| 🔵 Blue Team | 🔴 Red Team |
+| <h1>🔵 Blue Team</h1> | <h1>🔴 Red Team</h1> |
 | :--- | :--- |
 | Espacio dedicado a defensa y análisis.<br/>**Proyectos:** [🍯 T-Pot](https://w4ltersec.github.io/cybersecurity-labs/blue-team/t-pot/) · [📊 Splunk](https://github.com/W4lterSec/Splunk)<br/>🌐 Acceso público | Máquinas y laboratorios ofensivos.<br/>**Guía de estudio:** [Metodología de Pentesting](https://w4ltersec.github.io/Metodologia-Pentesting/)<br/>**[Baby](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/baby/Baby-Writeup.html) · [BitB](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/bitb/BitB-Writeup.html) · [Government](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/government/Government-Writeup.html) · [DC02](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/dc02/DC02-Writeup.html) · [Banner](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/banner/Banner-Writeup.html) · [Earth](https://w4ltersec.github.io/cybersecurity-labs/red-team/vulnhub/earth/Earth-Writeup.html) · [Aegis](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/aegis/Aegis-Writeup.html) · [MadLabs](https://w4ltersec.github.io/cybersecurity-labs/red-team/hackmyvm/madlabs/MadLabs-Writeup.html)** |
 | Logs, detección y respuesta a incidentes como áreas de aprendizaje | Reconocimiento, acceso inicial y escalada de privilegios |
